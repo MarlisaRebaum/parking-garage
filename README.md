@@ -1,12 +1,6 @@
 # OOP Parking Garage
 > Utilizing Object Oriented Programming, I wrote a program for a parking garage meter.
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Contact](#contact)
-
-
 ## General Information
 The task for this project was to write a parking garage program with the following
 specs:
