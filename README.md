@@ -12,9 +12,9 @@ The task for this project was to write a parking garage program with the followi
 specs:
 
 -  expected attributes for the class:
-  - tickets: expected to be a list
-  - parking_spaces: expected to be a list
-  - current_ticket: expected to be a dictionary
+    - tickets: expected to be a list
+    - parking_spaces: expected to be a list
+    - current_ticket: expected to be a dictionary
 - print number of available parking spots when asked
 - print number of available tickets when asked
 - decrease number of available tickets/parking spaces when a ticket is drawn
